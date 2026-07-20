@@ -15,11 +15,7 @@ https://electro-niro-kar.vercel.app
 
 ## Preview
 
-A website screenshot can be added here after deployment or after capturing the final version:
-
-```markdown
 ![Electro Niro Kar Website Preview](assets/images/preview.png)
-```
 
 > Add the screenshot as `assets/images/preview.png`, then uncomment or add the Markdown image line above.
 
