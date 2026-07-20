@@ -6,8 +6,9 @@ A responsive Persian (RTL) corporate website for **Electro Niro Kar**, an electr
 
 The live Vercel URL will be added here after deployment:
 
-**Live Website:** `Coming soon`
+**Live Website:**
 
+[View Live Website](https://electro-niro-kar.vercel.app)
 <!-- After deployment, replace "Coming soon" with your Vercel URL, for example:
 https://electro-niro-kar.vercel.app
 -->
